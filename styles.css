@@ -48,7 +48,7 @@ body {
     height: 100vh;
 }
 .section-hero_bg-img {
-    background-image: url("./bg-hero.svg");
+    background-image: url("bg-hero.svg");
     background-position: left;
     background-repeat: no-repeat;
     background-size: 100% 100%;
